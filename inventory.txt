@@ -1,0 +1,10 @@
+Wand,RARE,0
+Sword,COMMON,0
+Shield,GREAT,0
+Sword,COMMON,0
+Sword,COMMON,0
+Sword,COMMON,0
+Sword,COMMON,0
+Bow,EPIC,0
+Shield,GREAT,0
+Sword,COMMON,0
